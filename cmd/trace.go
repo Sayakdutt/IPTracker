@@ -17,8 +17,8 @@ import (
 // traceCmd represents the trace command
 var traceCmd = &cobra.Command{
 	Use:   "trace",
-	Short: "Trace the IP",
-	Long:  `Trace the IP`,
+	Short: "Trace & Find infomation about an IP address",
+	Long:  `Trace & Find infomation about an IP address`,
 	Run: func(cmd *cobra.Command, args []string) {
 		if len(args) > 0 {
 			for _, ip := range args {
