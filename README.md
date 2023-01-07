@@ -3,6 +3,9 @@
 
 IP Tracker is a CLI Based application written in Go used to track the ip address and give details about it
 
+## Screenshots
+
+![App usage screenshot](images/iptracker-usage.png)
 
 ## Installation
 
@@ -20,9 +23,7 @@ IP Tracker is a CLI Based application written in Go used to track the ip address
 ```
 
 
-## Screenshots
 
-![App usage screenshot](images/iptracker-usage.png)
 
 
 
